@@ -97,6 +97,7 @@ The Power BI dashboard provides a dynamic overview of strength training progress
 <p align="center">
 <img src="reports/images/example_metrics_per_exercise.png">
 </p>
+
 * **Correlation Insights:** This visualization explores the relationships between various training variables, such as exercise frequency or average reps per set, and their impact on overall weight progression. It helps uncover hidden correlations that can inform training adjustments.
 
 <p align="center">
