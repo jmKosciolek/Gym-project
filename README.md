@@ -1,4 +1,4 @@
-# 💪 Gym Progress Tracker & Visualizer
+# Gym Progress Tracker & Visualizer
 
 A personal data analytics project transforming raw workout notes into actionable insights using Python, Power BI, and statistical analysis.
 
