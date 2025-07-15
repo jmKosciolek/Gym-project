@@ -89,20 +89,19 @@ The Power BI dashboard provides a dynamic overview of strength training progress
 * **Overall Rate of Progress by Exercise:** This bar chart clearly visualizes the quantified rate of strength gain for each exercise, derived from linear regression. It helps quickly identify which exercises are progressing fastest and which might need more attention.
 
 <p align="center">
-![alt text](reports/images/rate_of_progress.png)
+<img src="reports/images/rate_of_progress.png">
 </p>
 
 * **Detailed Exercise Progression Metrics:** This set of line and bar charts provides a comprehensive view of a selected exercise's performance over time. It includes Max Weight, Average Weight, Total Volume, and monthly Frequency, allowing for in-depth analysis of individual exercise trends.
-<p align="center">
-![alt text](reports/images/example_metrics_per_exercise.png)
-</p>
 
+<p align="center">
+<img src="reports/images/example_metrics_per_exercise.png">
+</p>
 * **Correlation Insights:** This visualization explores the relationships between various training variables, such as exercise frequency or average reps per set, and their impact on overall weight progression. It helps uncover hidden correlations that can inform training adjustments.
 
 <p align="center">
-![alt text](reports/images/correlation.png)
+<img src="reports/images/correlation.png">
 </p>
-
 
 
 ## Key Insights & Personal Impact
